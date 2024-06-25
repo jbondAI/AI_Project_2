@@ -6,9 +6,22 @@ This repository shares the source data, examination approach, algorithms and key
 ### Project Objectives
 To examine the emission impacts of EV manufacturing as compared to internal combustion engine (ICE) vehicles and use over time. 
 
-### Data Analysis
-The investigating team narrowed its efforts on the collection, modeling and optimization of ....  Using Python tools and libraries, the investigating team conducted the following key activities:
+### APPROACH
 
+__Data Acquisition and Preparation__ 
+Description
+* TBD
+* TBD
+* TBD 
+
+__Modeling and Analysis__ 
+Description
+* TBD
+* TBD
+* TBD 
+
+__Evaluation and Optimization__ 
+Description
 * TBD
 * TBD
 * TBD 
@@ -68,7 +81,7 @@ TBD
 
 ### Project Contributors
 * Jamie Bond | [GitHub @JBondAI](https://github.com/jbondAI/) 
-* Jason Campbell| [GitHub @JCamp-12](https://github.com/jcamp-12/)
+* Jason Campbell | [GitHub @JCamp-12](https://github.com/jcamp-12/)
 * Elliot Sancrant | [GitHub @ElliottSancrant](https://github.com/ElliottSancrant/)
 
 ## Other Acknowledgments
