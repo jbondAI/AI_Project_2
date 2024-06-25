@@ -23,7 +23,7 @@ TBD.
 ### Datasets Analyzed
 The team narrowed its efforts on the collection, modeling and optimization of following EV and ICE manufacturing and operations datasets:
 
-__International Energy Agency __ 
+__International Energy Agency__ 
 * [Dataset name](https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties)
 * [Dataset name](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1)
 
