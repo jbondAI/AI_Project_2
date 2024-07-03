@@ -1,0 +1,11 @@
+"Consumption for electricity generation for all sectors"
+"https://www.eia.gov/electricity/data/browser/#/topic/3?agg=2,0,1&fuel=vtvv&geo=g&sec=g&freq=A&start=2010&end=2023&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Tue Jul 02 2024 15:48:20 GMT-0400 (Eastern Daylight Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023"
+"Consumption for electricity generation for all sectors",,,,,,,,,,,,,,,,
+"United States",,"ELEC.CONS_EG..A",,,,,,,,,,,,,,
+"United States : coal","thousand tons","ELEC.CONS_EG.COW-US-99.A",979684,934938,825734,860729,853634,739594,677371,663911,636213,537620,435351,500367,471576,386601
+"United States : petroleum liquids","thousand barrels","ELEC.CONS_EG.PEL-US-99.A",40103,27326,22604,23231,31531,28925,22405,21696,28614,20836,18008,21633,28760,20712
+"United States : petroleum coke","thousand tons","ELEC.CONS_EG.PC-US-99.A",4994,5012,3675,4852,4412,4044,4253,3490,3623,2724,3077,3070,2985,1848
+"United States : natural gas","thousand Mcf","ELEC.CONS_EG.NG-US-99.A",7680185,7883865,9484710,8596299,8544387,10016576,10170110,9508062,10842129,11612858,11928104,11502569,12384098,13223128

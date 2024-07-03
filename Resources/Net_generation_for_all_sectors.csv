@@ -1,0 +1,27 @@
+"Net generation for all sectors"
+"https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vtvv&geo=g&sec=g&freq=A&start=2010&end=2023&ctype=map&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Tue Jul 02 2024 15:39:09 GMT-0400 (Eastern Daylight Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023"
+"Net generation for all sectors","thousand megawatthours",,,,,,,,,,,,,,,
+"United States",,"ELEC.GEN..A",,,,,,,,,,,,,,
+"United States : all fuels (utility-scale)","thousand megawatthours","ELEC.GEN.ALL-US-99.A",4125060,4100141,4047765,4065964,4093564,4078714,4077574,4035443,4180988,4130574,4009767,4109699,4230672,4178171
+"United States : coal","thousand megawatthours","ELEC.GEN.COW-US-99.A",1847290,1733430,1514043,1581115,1581710,1352398,1239149,1205835,1149487,964957,773393,897999,831512,675264
+"United States : petroleum liquids","thousand megawatthours","ELEC.GEN.PEL-US-99.A",23337,16086,13403,13820,18276,17372,13008,12414,16245,11522,9662,11663,15805,11594
+"United States : petroleum coke","thousand megawatthours","ELEC.GEN.PC-US-99.A",13724,14096,9787,13344,11955,10877,11197,8976,8981,6819,7679,7511,7126,4878
+"United States : natural gas","thousand megawatthours","ELEC.GEN.NG-US-99.A",987697,1013689,1225894,1124836,1126635,1334668,1379271,1297703,1471843,1588533,1626790,1579190,1687067,1802062
+"United States : other gases","thousand megawatthours","ELEC.GEN.OOG-US-99.A",11313,11566,11898,12853,12022,13117,12807,12469,13463,12591,11818,11397,11722,11451
+"United States : nuclear","thousand megawatthours","ELEC.GEN.NUC-US-99.A",806968,790204,769331,789016,797166,797178,805694,804950,807084,809409,789879,779645,771537,775347
+"United States : conventional hydroelectric","thousand megawatthours","ELEC.GEN.HYC-US-99.A",260203,319355,276240,268565,259367,249080,267812,300333,292524,287874,285274,251585,254789,239855
+"United States : other renewables",,"ELEC.GEN.AOR-US-99.A",,,,,,,,,,,,,,
+"United States : wind","thousand megawatthours","ELEC.GEN.WND-US-99.A",94652,120177,140822,167840,181655,190719,226993,254303,272667,295882,337938,378197,434297,425235
+"United States : all utility-scale solar","thousand megawatthours","ELEC.GEN.SUN-US-99.A",1212,1818,4327,9036,17691,24893,36054,53287,63825,71937,89199,115258,143797,164502
+"United States : geothermal","thousand megawatthours","ELEC.GEN.GEO-US-99.A",15219,15316,15562,15775,15877,15918,15826,15927,15967,15473,15890,15975,16087,16462
+"United States : biomass","thousand megawatthours","ELEC.GEN.BIO-US-99.A",56089,56671,57622,60858,63989,63632,62760,62733,61832,57507,54712,54252,51847,47464
+"United States : wood and wood-derived fuels","thousand megawatthours","ELEC.GEN.WWW-US-99.A",37172,37449,37799,40028,42340,41929,40947,41124,40936,38543,36219,36463,35464,31439
+"United States : other biomass","thousand megawatthours","ELEC.GEN.WAS-US-99.A",18917,19222,19823,20830,21650,21703,21813,21610,20896,18964,18493,17790,16383,16025
+"United States : hydro-electric pumped storage","thousand megawatthours","ELEC.GEN.HPS-US-99.A",-5501,-6421,-4950,-4681,-6174,-5091,-6686,-6495,-5905,-5261,-5321,-5112,-6028,-5897
+"United States : other","thousand megawatthours","ELEC.GEN.OTH-US-99.A",12855,14154,13787,13588,13393,13955,13689,13008,12973,13331,12855,12140,11114,9955
+"United States : all solar","thousand megawatthours","ELEC.GEN.TSN-US-99.A","--","--","--","--",28924,39032,54866,77277,93365,106894,130721,164422,205079,238120
+"United States : small-scale solar photovoltaic","thousand megawatthours","ELEC.GEN.DPV-US-99.A","--","--","--","--",11233,14139,18812,23990,29539,34957,41522,49164,61282,73619
+"United States : all utility-scale solar","thousand megawatthours","ELEC.GEN.SUN-US-99.A",1212,1818,4327,9036,17691,24893,36054,53287,63825,71937,89199,115258,143797,164502
