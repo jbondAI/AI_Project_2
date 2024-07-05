@@ -1,0 +1,7 @@
+Source: IEA. Licence: CC BY 4.0
+This data is subject to the IEA's terms and conditions: https://www.iea.org/t_c/termsandconditions/
+Units: tCO₂e per vehicle lifetime
+,Vehicle manufacturing,Batteries-assembly and other,Batteries-minerals,Electricity,Fuel cycle (well-to-wheel),
+Battery electric vehicle - Base case,5.4,1.2,1.4,11.7,0.0
+Battery electric vehicle  - High-GHG minerals case,5.4,1.2,2.8,11.7,0.0
+Internal combustion engine vehicle, 6.0,0.01,0.03,0.0,35.9
