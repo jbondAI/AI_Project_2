@@ -1,0 +1,162 @@
+"total energy supply in United States",Value,Year,Units
+"Coal",22316629,2000, TJ
+"Coal",21978910,2001, TJ
+"Coal",22294474,2002, TJ
+"Coal",22236153,2003, TJ
+"Coal",23089230,2004, TJ
+"Coal",23332420,2005, TJ
+"Coal",23009412,2006, TJ
+"Coal",23180156,2007, TJ
+"Coal",22803997,2008, TJ
+"Coal",20273558,2009, TJ
+"Coal",20996678,2010, TJ
+"Coal",20012108,2011, TJ
+"Coal",17737516,2012, TJ
+"Coal",18094904,2013, TJ
+"Coal",18072073,2014, TJ
+"Coal",15660181,2015, TJ
+"Coal",14300841,2016, TJ
+"Coal",13847655,2017, TJ
+"Coal",13426291,2018, TJ
+"Coal",11510279,2019, TJ
+"Coal",9280479,2020, TJ
+"Coal",10635146,2021, TJ
+"Coal",10089202,2022, TJ
+"Oil",36473212,2000, TJ
+"Oil",37081945,2001, TJ
+"Oil",36751461,2002, TJ
+"Oil",37682054,2003, TJ
+"Oil",38748835,2004, TJ
+"Oil",38902924,2005, TJ
+"Oil",38268857,2006, TJ
+"Oil",37836425,2007, TJ
+"Oil",35508573,2008, TJ
+"Oil",33537134,2009, TJ
+"Oil",33767483,2010, TJ
+"Oil",32700212,2011, TJ
+"Oil",32317081,2012, TJ
+"Oil",32389117,2013, TJ
+"Oil",32367234,2014, TJ
+"Oil",33056355,2015, TJ
+"Oil",32837869,2016, TJ
+"Oil",33087374,2017, TJ
+"Oil",33566263,2018, TJ
+"Oil",33293509,2019, TJ
+"Oil",29400955,2020, TJ
+"Oil",31968560,2021, TJ
+"Oil",31579894,2022, TJ
+"Natural gas",22932624,2000, TJ
+"Natural gas",21539719,2001, TJ
+"Natural gas",22384393,2002, TJ
+"Natural gas",21727665,2003, TJ
+"Natural gas",21340567,2004, TJ
+"Natural gas",21236103,2005, TJ
+"Natural gas",21023775,2006, TJ
+"Natural gas",22727727,2007, TJ
+"Natural gas",22653271,2008, TJ
+"Natural gas",22421242,2009, TJ
+"Natural gas",23281821,2010, TJ
+"Natural gas",23812993,2011, TJ
+"Natural gas",24907509,2012, TJ
+"Natural gas",25395330,2013, TJ
+"Natural gas",26276307,2014, TJ
+"Natural gas",27067980,2015, TJ
+"Natural gas",27334911,2016, TJ
+"Natural gas",26960229,2017, TJ
+"Natural gas",29054726,2018, TJ
+"Natural gas",31078534,2019, TJ
+"Natural gas",30104803,2020, TJ
+"Natural gas",30274618,2021, TJ
+"Natural gas",31719294,2022, TJ
+"Nuclear",8702378,2000, TJ
+"Nuclear",8646589,2001, TJ
+"Nuclear",8776570,2002, TJ
+"Nuclear",8594378,2003, TJ
+"Nuclear",8872789,2004, TJ
+"Nuclear",8844283,2005, TJ
+"Nuclear",8903945,2006, TJ
+"Nuclear",9126916,2007, TJ
+"Nuclear",9139679,2008, TJ
+"Nuclear",9056836,2009, TJ
+"Nuclear",9151974,2010, TJ
+"Nuclear",8960781,2011, TJ
+"Nuclear",8739589,2012, TJ
+"Nuclear",8967316,2013, TJ
+"Nuclear",9060916,2014, TJ
+"Nuclear",9057687,2015, TJ
+"Nuclear",9162741,2016, TJ
+"Nuclear",9151214,2017, TJ
+"Nuclear",9178130,2018, TJ
+"Nuclear",9199964,2019, TJ
+"Nuclear",8979813,2020, TJ
+"Nuclear",8853288,2021, TJ
+"Nuclear",8767298,2022, TJ
+"Hydro",911534,2000, TJ
+"Hydro",677707,2001, TJ
+"Hydro",961322,2002, TJ
+"Hydro",1002992,2003, TJ
+"Hydro",976024,2004, TJ
+"Hydro",980802,2005, TJ
+"Hydro",1050728,2006, TJ
+"Hydro",898628,2007, TJ
+"Hydro",924170,2008, TJ
+"Hydro",992123,2009, TJ
+"Hydro",944157,2010, TJ
+"Hydro",1158238,2011, TJ
+"Hydro",1002639,2012, TJ
+"Hydro",975081,2013, TJ
+"Hydro",941302,2014, TJ
+"Hydro",903664,2015, TJ
+"Hydro",970812,2016, TJ
+"Hydro",1088504,2017, TJ
+"Hydro",1063803,2018, TJ
+"Hydro",1043274,2019, TJ
+"Hydro",1033702,2020, TJ
+"Hydro",912523,2021, TJ
+"Hydro",949841,2022, TJ
+"Wind, solar, etc.",634960,2000, TJ
+"Wind, solar, etc.",627906,2001, TJ
+"Wind, solar, etc.",446598,2002, TJ
+"Wind, solar, etc.",451752,2003, TJ
+"Wind, solar, etc.",471631,2004, TJ
+"Wind, solar, etc.",484986,2005, TJ
+"Wind, solar, etc.",519139,2006, TJ
+"Wind, solar, etc.",557795,2007, TJ
+"Wind, solar, etc.",609691,2008, TJ
+"Wind, solar, etc.",680076,2009, TJ
+"Wind, solar, etc.",794291,2010, TJ
+"Wind, solar, etc.",903279,2011, TJ
+"Wind, solar, etc.",1002118,2012, TJ
+"Wind, solar, etc.",1132316,2013, TJ
+"Wind, solar, etc.",1236979,2014, TJ
+"Wind, solar, etc.",1312775,2015, TJ
+"Wind, solar, etc.",1491265,2016, TJ
+"Wind, solar, etc.",1661988,2017, TJ
+"Wind, solar, etc.",1841813,2018, TJ
+"Wind, solar, etc.",1934725,2019, TJ
+"Wind, solar, etc.",2180848,2020, TJ
+"Wind, solar, etc.",2455808,2021, TJ
+"Wind, solar, etc.",2816380,2022, TJ
+"Biofuels and waste",3066641,2000, TJ
+"Biofuels and waste",2719607,2001, TJ
+"Biofuels and waste",2720174,2002, TJ
+"Biofuels and waste",2916938,2003, TJ
+"Biofuels and waste",3044542,2004, TJ
+"Biofuels and waste",3173311,2005, TJ
+"Biofuels and waste",3280742,2006, TJ
+"Biofuels and waste",3378288,2007, TJ
+"Biofuels and waste",3537899,2008, TJ
+"Biofuels and waste",3509141,2009, TJ
+"Biofuels and waste",3740176,2010, TJ
+"Biofuels and waste",3829965,2011, TJ
+"Biofuels and waste",3878899,2012, TJ
+"Biofuels and waste",4175521,2013, TJ
+"Biofuels and waste",4284470,2014, TJ
+"Biofuels and waste",4152062,2015, TJ
+"Biofuels and waste",4129878,2016, TJ
+"Biofuels and waste",4099389,2017, TJ
+"Biofuels and waste",4360822,2018, TJ
+"Biofuels and waste",4401995,2019, TJ
+"Biofuels and waste",4051985,2020, TJ
+"Biofuels and waste",4313102,2021, TJ
+"Biofuels and waste",3788063,2022, TJ
