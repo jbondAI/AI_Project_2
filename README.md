@@ -1,16 +1,18 @@
- # AI BOOTCAMP GROUP PROJECT (Project 2)
-This repository shares the source data, examination approach, algorithms and key findings related to the electric vehicle (EV) manufacturing lifecycle and its associated emission impacts.
+ # EXAMINATION OF VEHICLE EMISSIONS AND IMPACT ON CLIMATE (Project 2)
 
-## EXECUTIVE SUMMARY
+This repository, developed to share documentation and code related to UNCC/UNC Chapel Hill AI Bootcamp Project 2 (Group 4), contains the source data, approach, algorithms and key findings related to an examination of the climate impact of individual and market adoption of light-weight electric vehicles.
 
-### Project Objectives
-To examine the emission impacts of EV manufacturing as compared to internal combustion engine (ICE) vehicles and use over time. 
+## PROJECT OBJECTIVE
+To examine the climate impact of individual and market adoption of light-weight electric vehicles through exploration of vehicle lifecycle emissions, light-duty vehicle sale trends, vehicle stock and EV adoption outlook, projected vehicle efficiency changes, key climate policies and current climate science. 
 
-### APPROACH
+## APPROACH
 
 __Data Acquisition and Preparation__ 
-Description
-* TBD
+* **DATASETS:** Datasets examined and explored in our modeling and analysis are compiled in the _Resources_folder amd read in to the **_project_datasets.ipynb_** file along with additional data read in from html.
+*
+* **DATA DOCUMENTATION:** Details about each dataset, including source and links to documentation, are available within the _project_datasets_ notebook. 
+
+* **USING DATASETS:** All datasets used in our modling and analysis are described in the _project_datasets_ notebook which may be run directly or via running the 
 * TBD
 * TBD 
 
@@ -26,33 +28,16 @@ Description
 * TBD
 * TBD 
 
-### Summary Findings
+## Summary Findings
 Analyses and modeling revealed ...
 
 
 ## ANLYSIS DETAILS
 TBD. 
 
-### Datasets Analyzed
-The team narrowed its efforts on the collection, modeling and optimization of following EV and ICE manufacturing and operations datasets:
-
-__International Energy Agency__ 
-* [Dataset name](https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties)
-* [Dataset name](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1)
-
-__Energy Information Agency__ 
-* [Dataset name](https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp)
-* [Data set name](https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm)
-
-__[Source Name]__ 
-* [Dataset name](https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp)
-* [Data set name](https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm)
-
-__[Source Name]__ 
-* [esg_Data](* https://www.kaggle.com/code/mauriciovellasquez/esg-risk-analysis-insights-from-s-p-500-companies)
 
 
-### Data Analysis Using Python
+# INSTRUCTIONS
 
 The team developed the __Notebook_Name.ipynb__ python notebook to ingest, explore, prepare, model, and assess the datasets. [additional description of data modeling and optimization to be added]
 
