@@ -2,7 +2,7 @@
 
 This repository, developed to share documentation and code related to UNCC/UNC Chapel Hill AI Bootcamp Project 2 (Group 4), contains the source data, approach, algorithms and key findings related to an examination of the climate impact of individual and market adoption of light-weight electric vehicles.
 
-## PROJECT DESCRIPTION
+## PROJECT OBJECTIVE
 To examine the climate impact of individual and market adoption of light-weight electric vehicles through exploration of vehicle lifecycle emissions, light-duty vehicle sale trends, vehicle stock and EV adoption outlook, projected vehicle efficiency changes, key climate policies and current climate science. 
 
 
